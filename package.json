@@ -1,0 +1,19 @@
+{
+  "name": "taiji_quan_ymtt",
+  "version": "1.0.0",
+  "description": "Association YMTT website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./public/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomainWirth/Taiji_Quan_YMTT.git"
+  },
+  "author": "Romain WIRTH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomainWirth/Taiji_Quan_YMTT/issues"
+  },
+  "homepage": "https://github.com/RomainWirth/Taiji_Quan_YMTT#readme"
+}
